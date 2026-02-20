@@ -1,4 +1,4 @@
-# @increase/react-native-overlay
+# @increase21/react-native-overlay
 
 React Native module for Android overlay permission, screen wake, and lock screen UI management.
 
@@ -9,9 +9,9 @@ React Native module for Android overlay permission, screen wake, and lock screen
 ## Installation
 
 ```sh
-npm install @increase/react-native-overlay
+npm install @increase21/react-native-overlay
 # or
-yarn add @increase/react-native-overlay
+yarn add @increase21/react-native-overlay
 ```
 
 ### Android setup
