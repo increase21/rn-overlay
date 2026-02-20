@@ -142,6 +142,7 @@ export default function App() {
 | Android compileSdk | 33+              |
 | iOS                | 12.4+            |
 | Kotlin             | 1.8+             |
+| JVM                | 17               |
 
 ---
 
