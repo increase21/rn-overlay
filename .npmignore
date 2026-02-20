@@ -1,0 +1,15 @@
+# Source files are included via the "files" field in package.json.
+# This file explicitly excludes dev/test artefacts from the published tarball.
+
+node_modules/
+.DS_Store
+*.log
+
+android/build/
+android/.gradle/
+ios/build/
+ios/Pods/
+
+tsconfig.json
+tsconfig.build.json
+babel.config.js

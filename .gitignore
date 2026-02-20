@@ -1,0 +1,16 @@
+node_modules/
+lib/
+.DS_Store
+*.log
+
+# Android
+android/build/
+android/.gradle/
+
+# iOS
+ios/build/
+ios/Pods/
+ios/*.xcworkspace
+
+# TypeScript
+*.tsbuildinfo
